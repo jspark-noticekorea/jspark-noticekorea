@@ -10,7 +10,8 @@ I'm a student of a university, Univ. of Seoul, doing the internship(part time jo
 
 My personal account is [@moran991231](https://github.com/moran991231)
 
-
+# Language in this project
+<img src="https://img.shields.io/badge/C sharp-239120?style=flat-square&logo=CSharp&logoColor=white"/>
 
 # Public repositories
 
